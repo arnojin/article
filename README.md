@@ -189,8 +189,9 @@
 
 * [Express](http://expressjs.com/) [GitHub](https://github.com/expressjs/express) | [hapi](http://hapijs.com/) [GitHub](https://github.com/hapijs/hapi)
 
-## [FFmpeg](https://www.ffmpeg.org/doxygen/4.1/index.html)
+## FFmpeg
 
+* [FFmpeg Documentation 4.1](https://www.ffmpeg.org/doxygen/4.1/index.html)
 * [GitHub ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial#chapter-3---transcoding)
 * [GitHub digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction.git)
 * [2012-02-13 【整理】Libav FFmpeg mplayer VLC开源项目 FFDshow](https://blog.csdn.net/conowen/article/details/7255776)
@@ -206,6 +207,7 @@
 * [2018-09-28 javaCV入门指南：序章](https://blog.csdn.net/eguid_1/article/details/82875343)
 * [2019-01-05 linux 系统下安装ffmpeg](https://blog.csdn.net/fanghuainihao/article/details/85860955)
 * [2019-01-05 java项目中使用ffmpeg剪辑部分视频](https://blog.csdn.net/fanghuainihao/article/details/85859186)
+* [2019-04-02 FFmpeg时间戳详解](https://cloud.tencent.com/developer/article/1409507)
 * [2019-06-07 使用 VS2015 编译并调试 ffmpeg](https://www.cnblogs.com/BensonLaur/p/10989115.html)
 * [2020-01-14 FFmpeg 视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 * [2020-05-08 关于使用ffmpeg的一些牢骚](https://www.cnblogs.com/shelwinnee/p/12849798.html)
