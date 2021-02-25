@@ -207,11 +207,13 @@
 * [2018-09-28 javaCV入门指南：序章](https://blog.csdn.net/eguid_1/article/details/82875343)
 * [2019-01-05 linux 系统下安装ffmpeg](https://blog.csdn.net/fanghuainihao/article/details/85860955)
 * [2019-01-05 java项目中使用ffmpeg剪辑部分视频](https://blog.csdn.net/fanghuainihao/article/details/85859186)
+* [2019-01-06 FFmpeg简易播放器的实现3-音频播放](https://www.cnblogs.com/leisure_chn/p/10068490.html)
 * [2019-04-02 FFmpeg时间戳详解](https://cloud.tencent.com/developer/article/1409507)
 * [2019-06-07 使用 VS2015 编译并调试 ffmpeg](https://www.cnblogs.com/BensonLaur/p/10989115.html)
 * [2020-01-14 FFmpeg 视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 * [2020-05-08 关于使用ffmpeg的一些牢骚](https://www.cnblogs.com/shelwinnee/p/12849798.html)
 * [2020-06-09 JAVA使用JAVACV实现图片合成短视频，并给视频添加音频！！！](https://cloud.tencent.com/developer/article/1640244)
+* [2020-07-06 C#使用FFmpeg的总结](https://www.cnblogs.com/ColorsWin/p/13252952.html)
 * [2020-09-27 Java通过Javacv,FFmpeg对音频进行剪辑](https://trashcode.cn/post/d/7330327e-6118-48a1-96e8-cd990effe91b)
 * [2020-09-30 视频解码opencv ffmpeg decord三种方式速度对比](https://blog.csdn.net/leng_yan/article/details/108888334)
 
