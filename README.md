@@ -192,6 +192,8 @@
 ## FFmpeg
 
 * [FFmpeg Documentation 4.1](https://www.ffmpeg.org/doxygen/4.1/index.html)
+* [GitHub FFME: The Advanced WPF MediaElement Alternative](https://github.com/unosquare/ffmediaelement)
+* [GitHub NAudio](https://github.com/naudio/NAudio.git)
 * [GitHub ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial#chapter-3---transcoding)
 * [GitHub digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction.git)
 * [2012-02-13 【整理】Libav FFmpeg mplayer VLC开源项目 FFDshow](https://blog.csdn.net/conowen/article/details/7255776)
