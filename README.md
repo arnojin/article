@@ -88,6 +88,7 @@
 * [2017-12-29 武汉大学-世纪高通时空大数据联合实验室揭牌](http://sim.whu.edu.cn/xwdt/2017-12-29/5688.html)
 * [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
 * [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
+* [2020-10-18 数仓数据分层(ODS DWD DWS ADS)换个角度看](https://blog.csdn.net/xiaohu21/article/details/109149589)
 
 ## Blockchain 区块链
 
