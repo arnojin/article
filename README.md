@@ -88,7 +88,9 @@
 * [2017-12-29 武汉大学-世纪高通时空大数据联合实验室揭牌](http://sim.whu.edu.cn/xwdt/2017-12-29/5688.html)
 * [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
 * [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
+* [2019-12-19 数据仓库建模（数据立方体和三种模式）](https://blog.csdn.net/qq_40233706/article/details/103605839)
 * [2020-10-18 数仓数据分层(ODS DWD DWS ADS)换个角度看](https://blog.csdn.net/xiaohu21/article/details/109149589)
+* [2020-10-27 数仓建模和业务建模对比总结](https://blog.csdn.net/xiaohu21/article/details/109320023)
 
 ## Blockchain 区块链
 
@@ -552,6 +554,9 @@
 * [2015-12-24 Connection reset by peer 的解决办法](https://blog.csdn.net/yuanxiaojun1990/article/details/50395824)
 * [2017-05-15 Oracle解决ora-01653 无法通过1024扩展](https://www.cnblogs.com/WAbby/p/6857531.html)
 * [2017-05-04 oracle如何修改单个用户密码永不过期](http://blog.51cto.com/xjsunjie/1922101)
+* [2019-06-22 Docker安装Oracle 11g](https://jianshu.com/p/4ede7dcc1d86)
+* [2017-06-07 centos 安装oracle 报Checking swap space: 0 MB available, 150 MB required.](https://www.cnblogs.com/a9999/p/6957280.html)
+* [2019-06-22 Docker安装Oracle 11g](https://jianshu.com/p/4ede7dcc1d86)
 
 ## OSGI
 
