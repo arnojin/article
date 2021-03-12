@@ -277,6 +277,7 @@
 * [2017-01-22 Hive数据类型](http://blog.csdn.net/xiaoqi0531/article/details/54667393)
 * [2017-07-29 Hive数据类型与文件存储格式](https://www.cnblogs.com/tlnshuju/p/7255509.html)
 * [2017-09-03 hive中解决中文乱码](https://www.cnblogs.com/DreamDrive/p/7469476.html)
+* [2018-07-13 SQuirrel连接hive配置](https://www.cnblogs.com/romancetown/p/9304042.html)
 
 ## Hystrix
 
