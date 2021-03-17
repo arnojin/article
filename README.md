@@ -89,6 +89,7 @@
 * [2018-01-17 网易云《2017年北上广深杭企业数字化发展报告》](http://news.iresearch.cn/content/2018/01/272675.shtml)
 * [2018-01-28 实施国家大数据战略 建设数字中国](http://news.gmw.cn/2018-01/28/content_27478633.htm)
 * [2019-12-19 数据仓库建模（数据立方体和三种模式）](https://blog.csdn.net/qq_40233706/article/details/103605839)
+* [2020-06-14 CDH的免费午餐结束后，“免费”部署之路往何处去？](https://my.oschina.net/u/4598650/blog/4456081)
 * [2020-10-18 数仓数据分层(ODS DWD DWS ADS)换个角度看](https://blog.csdn.net/xiaohu21/article/details/109149589)
 * [2020-10-27 数仓建模和业务建模对比总结](https://blog.csdn.net/xiaohu21/article/details/109320023)
 
