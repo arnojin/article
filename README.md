@@ -622,6 +622,10 @@
 * [Passing environment variables through remote command](http://rundeck.org/docs/plugins-user-guide/ssh-plugins.html#passing-environment-variables-through-remote-command)
 * [2015-6-25 rundeck部署+rundeck配置mysql元数据库](http://www.ukettle.org/thread-256-1-1.html)
 
+## SAP
+
+* [2017-07-03 JAVA使用JCO实现调用SAP接口方法](https://blog.csdn.net/u012909738/article/details/74202546)
+
 ## Scala
 
 * [2016-10-23 利用IntelliJ IDEA与Maven开始你的Scala之旅](https://www.jianshu.com/p/ecc6eb298b8f)
