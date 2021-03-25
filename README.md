@@ -168,6 +168,7 @@
 * [2016-07-17 docker完整解决方案](http://www.colabug.com/thread-1598722-1-1.html)
 * [2016-10-08 传统企业应用容器化的痛点、坑和解决之道](http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649692052&idx=1&sn=413fe320f15560d60a72f132a0572576&chksm=889328f7bfe4a1e10662c8b2593bdc89e314c92e795d3e493f29ab5e3137ff71b5fd054ac50c&mpshare=1&scene=1&srcid=1008boBGX0z7Gfh9Cn1Zs8hg#rd)
 * [2017-04-28 Docker学习笔记，从原理到实践](http://www.cnblogs.com/linuxops/p/6781047.html?utm_source=itdadao&utm_medium=referral)
+* [2020-08-10 Docker之swarm部署集群](https://blog.51cto.com/14306186/2518731)
 
 ## Dubbo
 
