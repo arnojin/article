@@ -681,6 +681,7 @@
 * [Sqoop 1.4.6-cdh5.14.0 API](http://archive.cloudera.com/cdh5/cdh/5/sqoop/api/index.html)
 * [Sqoop import加载HBase过程中，遇到Permission denied: user=root, access=WRITE, inode="/user":hdfs:supergroup:drwxr-xr-x](https://www.cnblogs.com/invban/p/5673517.html)
 * [sqoop导入数据时间日期类型错误](http://blog.csdn.net/csfreebird/article/details/37767125)
+* [2021-01-23 Sqoop import -之MySQL到HDFS(LZO)的脚本编写与简单实践](https://blog.csdn.net/shufangreal/article/details/113038334)
 
 ## Spark
 
