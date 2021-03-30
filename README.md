@@ -401,6 +401,7 @@
 * [Apache Kylin | Installation Guide](http://kylin.apache.org/cn/docs20/install/)
 * [2017-06-22 Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
 * [2017-09-06 kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
+* [2018-09-25 EXCEL链接Kylin](https://blog.csdn.net/seashouwang/article/details/82840470)
 * [2020-05-18 Ambari2.7.3+HDP-3.0.1集群集成Kylin3.0.1](https://blog.csdn.net/Happy_Sunshine_Boy/article/details/106104714)
 
 ## Lantern
