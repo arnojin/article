@@ -249,6 +249,11 @@
 * [2017-03-17 Git版本恢复命令reset和revert](http://blog.csdn.net/xybelieve1990/article/details/62885292)
 * [2017-06-21 git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
 
+
+## GitLab
+
+* [2020-03-19 Fix GitLab runner "expected shallow list" error](https://megamorf.gitlab.io/2020/03/19/fix-gitlab-runner-expected-shallow-list-error/)
+
 ## Go
 
 * [cobra](https://github.com/spf13/cobra)
