@@ -404,6 +404,7 @@
 ## Kylin 麒麟
 
 * [Apache Kylin | Installation Guide](http://kylin.apache.org/cn/docs20/install/)
+* [Kylin ODBC Driver](https://kyligence.io/resources/kyligence-odbc-driver-for-apache-kylin-2/)
 * [2016-03-03 Kylin的cube模型](https://www.cnblogs.com/en-heng/p/5239311.html)
 * [2017-06-22 Apache kylin搭建](http://blog.163.com/lg1011_cwq/blog/static/26141502920175224846648/)
 * [2017-09-06 kylin安装及配置](http://blog.csdn.net/seashouwang/article/details/77869773)
