@@ -506,6 +506,7 @@
 ## Microsoft Project
 
 * [2012-04-27 怎么修改project2003中项目日历的默认工作时间，例如工作开始时间8点变为9点](http://zhidao.baidu.com/link?url=4h0f8nqrCGIZukjWYDx9FUM7UQa0ObPdtZVwNt1JW7PWM19-kHBA-4HGYRdxGRHBi7JGLtD0PtmdDDMhwkIqI_)
+* [2020-10-08 如何修改Project的默认字体、默认条形图样式](https://www.office26.com/project/19133.html)
 
 ## MongoDB
 
