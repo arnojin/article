@@ -293,6 +293,8 @@
 * [2017-07-29 Hive数据类型与文件存储格式](https://www.cnblogs.com/tlnshuju/p/7255509.html)
 * [2017-09-03 hive中解决中文乱码](https://www.cnblogs.com/DreamDrive/p/7469476.html)
 * [2018-07-13 SQuirrel连接hive配置](https://www.cnblogs.com/romancetown/p/9304042.html)
+* [2020-08-07 Hive设置连接用户名和密码](https://blog.csdn.net/weixin_45751589/article/details/107855982)
+* [2020-12-25 hadoop生态的kerberos认证系列4-hive](https://blog.csdn.net/tktttt/article/details/111676404)
 * [2021-02-04 java.net.SocketTimeoutException: Read timed out 问题解决](https://blog.csdn.net/pingweicheng/article/details/113637189)
 
 ## Hystrix
