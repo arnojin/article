@@ -591,6 +591,12 @@
 
 * [Mongoose使用案例–让JSON数据直接入库MongoDB](http://blog.fens.me/nodejs-mongoose-json/)
 
+## MyBatis
+
+* [2021-10-30 一键生成mapper、mapperxml等文件——MybatisX插件的使用](https://www.cnblogs.com/6543x1/p/15484098.html)
+* [2021-10-22 Mapper与Repository的区别](https://blog.csdn.net/Jjavaer/article/details/120910695)
+* [2018-08-02 mybatis的if test 字符串的坑](https://blog.csdn.net/xl19961223/article/details/81362696)
+
 ## NAT
 
 * [NATAPP基于ngrok的国内高速内网穿透服务](https://natapp.cn/)
