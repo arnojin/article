@@ -959,8 +959,10 @@
 * [2013-08-01 软件设计之UML—UML中的六大关系](http://www.cnblogs.com/hoojo/p/uml_design.html)
 * [2013-08-30 软件设计之UML—UML的构成[上]](http://www.cnblogs.com/hoojo/p/UML_design_constitute_example.html)
 
-## [UNI-APP](https://uniapp.dcloud.io/) [开发者中心](https://dev.dcloud.net.cn/app) [钉钉开放平台](https://open-dev.dingtalk.com/)
+## [UNI-APP](https://uniapp.dcloud.io/)
 
+*[开发者中心](https://dev.dcloud.net.cn/app)
+* [钉钉开放平台](https://open-dev.dingtalk.com/)
 * [2022-01-20 钉钉小程序介绍](https://open.dingtalk.com/document/orgapp-client/introduction-to-dingtalk-mini-programs)
 * [2022-01-19 钉钉小程序JSAPI总览](https://open.dingtalk.com/document/orgapp-client/mini-program-jsapi-overview)
 * [2021-09-06 uni-app 快速入门](https://www.w3cschool.cn/uni_app/uni_app-kdmu370c.html)
