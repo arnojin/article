@@ -169,6 +169,14 @@
 * [2015-08-02 分布式服务注册和发现consul 简要介绍](http://www.cnblogs.com/shanyou/p/4695131.html)
 * [2015-08-09 使用C# 和Consul进行分布式系统协调](http://www.cnblogs.com/shanyou/p/4714838.html)
 
+## DNS
+
+* Rancher https://docs.rancher.cn/docs/rancher2.5/troubleshooting/dns/_index/
+* [2020-09-07 基于docker搭建DNSmasq](https://cloud.tencent.com/developer/article/1692705)
+* [2019-07-09 DNS：从零搭建公司内网DNS服务器](https://www.cnblogs.com/Dy1an/p/11157152.html)
+* [2019-01-28 基于Docker快速搭建DNS Server](https://www.jianshu.com/p/c9e376df7074)
+* [2017-10-18 DNS服务器搭建与配置](https://www.cnblogs.com/heiye123/articles/7687922.html)
+
 ## Docker
 
 * [Docker Toolbox](http://mirrors.aliyun.com/docker-toolbox/windows/) [2](https://www.docker.com/products/docker-toolbox)
