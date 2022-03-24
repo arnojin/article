@@ -630,6 +630,9 @@
 
 ## Nginx
 
+* [2021-05-18 Nginx Websocket 配置](https://cloud.tencent.com/developer/article/1825520)
+* [2019-11-19 如何为Nginx配置 WebSocket?](https://cloud.tencent.com/developer/article/1540702)
+* [2018-11-26 nginx实现无www和有www跳转](https://blog.csdn.net/eebaicai/article/details/84540439)
 * [2014-10-28 Nginx反向代理关于端口的问题](https://www.cnblogs.com/likehua/p/4056625.html)
 * [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
 * [2017-01-04 Nginx实现多域名证书HTTPS](http://www.cnblogs.com/kabi/p/6247561.html)
