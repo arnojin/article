@@ -491,6 +491,13 @@
 * [2018-06-04 Using GitLab's pipeline with Laravel](https://lorisleiva.com/using-gitlabs-pipeline-with-laravel/)
 * [2018-06-08 Laravel deployment using GitLab's pipelines](https://lorisleiva.com/laravel-deployment-using-gitlab-pipelines/)
 
+## [Let's Encrypt - 免费的SSL/TLS证书](https://letsencrypt.org/zh-cn/)
+
+* [acme.sh](https://github.com/acmesh-official/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
+* [Let's Encrypt证书有哪些缺点?如何解决](https://www.cnblogs.com/osfipin/p/13547669.html)
+* [证书兼容性 - Let's Encrypt - 免费的SSL/TLS证书](https://letsencrypt.org/zh-cn/docs/certificate-compatibility/)
+* [从2021年1月起Let's Encrypt SSL证书兼容性将降低](https://www.racent.com/blog/lets-encrypt-warns-of-reduced-compatibility-beginning-january-2021)
+
 ## Linux
 
 * [Centos7中使用7zip压缩工具](https://www.linuxprobe.com/centos7-7zip-compression.html)
