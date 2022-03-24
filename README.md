@@ -346,6 +346,7 @@
 * [judasn/IntelliJ-IDEA-Tutorial: IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 * [Reset Your IDE Eval Information](https://gitee.com/pengzhile/ide-eval-resetter)
 * [2020-11-19 Jetbrains系列产品重置试用方法](https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html)
+* [2020-04-30 idea windows 修改了 .vmoptions 导致 IDEA 无法启动 解决方案](https://blog.csdn.net/qq_20667511/article/details/105864292)
 
 ## Ionic
 
