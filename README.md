@@ -354,11 +354,17 @@
 
 ## Java
 
+* [JDK 8 Update Release Notes](https://www.oracle.com/java/technologies/javase/8u-relnotes.html)
+* [JDK 8u202](https://www.oracle.com/java/technologies/javase/8u202-relnotes.html)
+* [JDK 8u20](https://www.oracle.com/java/technologies/javase/8u20-relnotes.html)
+* [Previous Java releases](https://www.oracle.com/java/technologies/downloads/archive/)
 * [Connector/J Versions, and the MySQL and Java Versions They Require](https://dev.mysql.com/doc/connector-j/5.1/en/connector-j-versions.html)
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
 * [2015-03-18 Java8新日期时间API的20个使用示例](http://www.jb51.net/article/62410.htm)
 * [2017-02-07 SecureRandom生成随机数超慢 导致tomcat启动时间过长的解决办法](https://blog.csdn.net/upshi/article/details/54907464)
 * [2017-06-08 Java8新特性之深入解析日期和时间](http://www.jb51.net/article/115720.htm)
+* [2018-07-11 JAVA 注解的基本原理](https://www.cnblogs.com/yangming1996/p/9295168.html)
+* [2019-05-26 spring-boot和springframework、jdk的版本关系](https://blog.csdn.net/qq_26264237/article/details/90575165)
 
 ## Jenkins
 
