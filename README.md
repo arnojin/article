@@ -501,6 +501,8 @@
 ## Linux
 
 * [Centos7中使用7zip压缩工具](https://www.linuxprobe.com/centos7-7zip-compression.html)
+* [2020-06-07 解决因U盘标签问题导致的U盘安装Linux系统失败](https://www.cnblogs.com/realjimmy/p/13060172.html)
+* [2017-10-16 用Linux命令行获取本机外网IP地址](https://blog.csdn.net/lakeheart879/article/details/78247894)
 * [2010-11-18 EXT3 vs EXT4 vs XFS vs BTRFS linux filesystems benchmark](http://www.ilsistemista.net/index.php/linux-a-unix/6-linux-filesystems-benchmarked-ext3-vs-ext4-vs-xfs-vs-btrfs.html?limitstart=0)
 * [2013-07-19 ext3，ext4，xfs和btrfs文件系统性能对比](http://www.cnblogs.com/tommyli/p/3201047.html)
 * [2014-11-04 查看linux中的TCP连接数](https://blog.csdn.net/he_jian1/article/details/40787269)
