@@ -366,6 +366,18 @@
 * [2018-07-11 JAVA 注解的基本原理](https://www.cnblogs.com/yangming1996/p/9295168.html)
 * [2019-05-26 spring-boot和springframework、jdk的版本关系](https://blog.csdn.net/qq_26264237/article/details/90575165)
 
+## JavaScript
+
+* [ESLint 规则](http://eslint.cn/docs/rules/)
+* [2021-06-29 React 类组件和函数组件-props&state](https://juejin.cn/post/6979132975350808607)
+* [2021-03-10 Eslint Unable to resolve path to module](https://blog.csdn.net/weixin_43459866/article/details/114634310)
+* [2021-10-15 尤大大说我的代码全部不加分号](https://mp.weixin.qq.com/s/6abhEx9gznkUKVJXLV-8Zg)
+* [2021-10-11 这几个简单的步骤让你的 JS 看着更舒服](https://mp.weixin.qq.com/s/jIDUt1R893j1UGF4YB9jzQ)
+* [2020-06-02 深入理解JS：var、let、const的异同](https://www.cnblogs.com/forcheng/p/13033976.html)
+* [2019-12-21 .eslintrc 文件配置详解](https://zhuanlan.zhihu.com/p/98617401)
+* [2019-09-27 React项目配置ESlint总结](https://zhuanlan.zhihu.com/p/84329603)
+* [2019-04-26 一次搞懂 Generator 函数](https://www.cnblogs.com/rogerwu/p/10764046.html)
+
 ## Jenkins
 
 * [Jenkins](https://jenkins.io/index.html)
