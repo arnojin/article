@@ -1,7 +1,9 @@
 # 文章
 
-## [Activiti](https://www.activiti.org/) [GitHub](https://github.com/Activiti/Activiti) [gitee](https://gitee.com/arnojin_arno/Activiti)
+## [Activiti](https://www.activiti.org/)
 
+* [GitHub](https://github.com/Activiti/Activiti)
+* [gitee](https://gitee.com/arnojin_arno/Activiti)
 * [OpenWebFlow](https://gitee.com/mirrors/openwebflow)
 * [Activity Permission Management](https://github.com/bluejoe2008/openwebflow/wiki/Activity-Permission-Management)
 * [Activiti专题](https://kafeitu.me/activiti.html)
