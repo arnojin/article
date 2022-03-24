@@ -382,6 +382,8 @@
 
 * [Jenkins](https://jenkins.io/index.html)
 * [2017-03-18 Jenkins Gitlab持续集成打包平台搭建](http://www.importnew.com/23921.html)
+* [2020-03-24 jenkins学习14-构建触发器之定时构建和轮询 SCM](https://www.cnblogs.com/yoyoketang/p/12562612.html)
+* [2020-03-21 jenkins学习12-github上提交代码后构建job](https://www.cnblogs.com/yoyoketang/p/12535907.html)
 
 ## JSON Web Token (JWT)
 
