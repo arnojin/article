@@ -1004,6 +1004,20 @@
 * [2014-07-09 微信聊天记录怎么提取](http://zhidao.baidu.com/link?url=D8UifUcXIzd_OF4CQkruUESv_GRvkYT58rWlrqkI2z6_CTkbXn28ab90b0lz-yNxU_rF-R8dCV_kkYYfvaLK4e97UD-ZcbMJH5veJWrMHn_)
 * [2016-01-15 Web 微信与基于Node的微信机器人实现](http://reverland.org/javascript/2016/01/15/webchat-user-bot/)
 
+## Windows
+
+* [下载 Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11?4cd9df4f-deef-4431-9497-a04303f34986=True&3ffbea20-eb11-4a96-85d6-f356b820d828=True)
+* [2021-10-11 安装Windows 11绕过TPM和安全启动等绕过硬件检测限制常用方法](https://bbs.pcbeta.com/viewthread-1906734-1-1.html)
+
+## Windows Terminal
+
+* [2021-01-19 WindowsTerminal设置](https://www.cnblogs.com/Jingkunliu/p/14299332.html)
+
+## wsl
+
+* [自定义WSL的安装位置，别再装到C盘啦](https://zhuanlan.zhihu.com/p/263089007)
+* [旧版 WSL 的手动安装步骤](https://docs.microsoft.com/zh-cn/windows/wsl/install-manual)
+
 ## YARN
 
 * [11. Determine YARN and MapReduce Memory Configuration Settings - Hortonworks Data Platform](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.1/bk_installing_manually_book/content/rpm-chap1-11.html)
@@ -1022,6 +1036,46 @@
 ## Zeppelin
 
 * [Apache Zeppelin](http://zeppelin.apache.org/)
+
+## 百度指数
+
+* [VUE、React、Angula对比](https://index.baidu.com/v2/main/index.html#/trend/react?words=react,vue,angular)
+
+## 测试
+
+* [2018-08-19 从Bug中学习--Bug根因分析法](https://www.jianshu.com/p/9638445bd372)
+* [根本原因分析](https://wiki.mbalib.com/wiki/%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90)
+* [根因分析](https://www.cnblogs.com/huaweicloud/p/12229640.html)
+
+## 跨域请求
+
+* [2021-02-05 Restful API 请求不支持PUT DELETE请求的解决办法](https://blog.csdn.net/cnm_1314/article/details/113695988)
+* [2018-11-30 HTTP中间层不支持PUT/DELETE等特定METHOD时的处理](https://blog.csdn.net/youbl/article/details/84647791)
+* [2018-01-02 nginx配置-Ajax跨域请求方式为PUT,DELETE](https://blog.csdn.net/q646926099/article/details/78951482)
+
+## 流程图
+
+* [2020-06-20 业务流程图、功能流程图、页面流程图，到底有什么区别](https://zhuanlan.zhihu.com/p/149633401)
+* [2020-01-02 画了这么多流程图，你真的画规范了吗？](https://zhuanlan.zhihu.com/p/100624625)
+* [2017-05-31 产品流程设计：如何绘制业务流程图？](http://www.woshipm.com/pd/675174.html)
+
+## 联想
+
+* [2020-11-17 联想笔记本按什么键进bios 联想笔记本怎么快速进入BIOS](https://club.lenovo.com.cn/thread-6500616-1-1.html)
+
+## 网络
+
+* [2019-09-29 解决报错Failed to start LSB: Bring up/down networking：MAC地址导致](https://www.cnblogs.com/python-wen/p/11607969.html)
+
+## 项目管理
+
+* [2021-08-26 详解WBS：如何将复杂的项目拆解清楚](https://mp.weixin.qq.com/s/l46uJLrKpTb_riS2chPaHg)
+
+## 职业规划
+
+* [2021-05-24 精读《前端职业规划 - 2021 年》](https://zhuanlan.zhihu.com/p/374718063)
+* [前端精读](https://github.com/ascoders/weekly#%E5%89%8D%E7%AB%AF%E7%B2%BE%E8%AF%BB)
+* [千古前端图文教程](https://web.qianguyihao.com/)
 
 ## 其他
 
