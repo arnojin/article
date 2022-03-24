@@ -279,6 +279,7 @@
 ## Git
 
 * [GitLab](https://about.gitlab.com/) [Gitlab Community Edition 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/) [download](https://about.gitlab.com/downloads/#ubuntu1604)
+* [2021-06-19 使用PuttyGen和TortoiseGit进行Clone with SSH](https://blog.csdn.net/gfluozhitao/article/details/118053900)
 * [2012-06-28 搭建Git本地服务器](http://www.cnblogs.com/trying/archive/2012/06/28/2863758.html)
 * [2014-03-27 svn 迁移到git下全过程](http://www.aikaiyuan.com/6584.html)
 * [2014-05-15 push推送的5个真相和5个误区](http://www.appying.com/game/push-zhengxiang/)
