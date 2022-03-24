@@ -71,7 +71,7 @@
 
 * [2011-04-23 汇编软件MASM和调试工具DEBUG的使用](http://blog.sina.com.cn/s/blog_70dd16910100r5e3.html)
 
-## [Axure]
+## Axure
 
 * [Axure RP API](https://www.axure.com/axure-rp-api)
 * [2019-05-15 Unable to connect to svn to open a team project](https://forum.axure.com/t/unable-to-connect-to-svn-to-open-a-team-project/62760)
