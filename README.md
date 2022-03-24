@@ -908,6 +908,13 @@
 * [2018-04-08 如何使用StreamSets从MySQL增量更新数据到Hive](https://mp.weixin.qq.com/s/nedq6Gpdyc9oPA5mKVWwBw)
 * [2018-04-09 如何使用StreamSets实现MySQL中变化数据实时写入Kudu](https://mp.weixin.qq.com/s/zke3DL4oJS9QUp3t8mcdWA)
 
+## Sybase PowerDesigner
+
+* [2020-11-27 手把手教你用powerdesigner导出数据库表关系图](https://blog.csdn.net/weixin_39642619/article/details/110571587)
+* [2020-04-07 PowerDesigner 安装+汉化+破解+使用过程 - 沦陷 - 博客园](https://www.cnblogs.com/huangting/p/12654057.html)
+* [2018-01-19 Powerdesigner使用技巧](https://www.cnblogs.com/junzi2099/p/8308992.html)
+* [2012-02-14 PowerDesigner逆向工程导入MYSQL数据库总结](https://blog.csdn.net/chamtianjiao/article/details/7258316)
+
 ## SVN
 
 * [svn clean up 失败解决方法](http://www.tuicool.com/articles/biy6na)
