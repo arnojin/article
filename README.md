@@ -42,6 +42,12 @@
 * [AngularJS](https://github.com/angular/angular.js)
 * [2015-05-12 使用Angular JS + Express JS入门搭建网站](http://www.chinaz.com/web/2015/0512/405473.shtml)
 
+## [Ant Design Pro](https://beta-pro.ant.design/index-cn)
+
+* [Gitee 极速下载 / Ant-Design-Pro](https://gitee.com/mirrors/Ant-Design-Pro)
+* [Ant Design 实战教程](https://www.yuque.com/ant-design/course)
+* [VS Code umijs/plugin-model](https://marketplace.visualstudio.com/items?itemName=litiany4.umijs-plugin-model)
+
 ## Apache
 
 * [Apache Software Foundation Distribution Directory](https://mirrors.tuna.tsinghua.edu.cn/apache/)
