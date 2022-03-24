@@ -625,6 +625,7 @@
 * [npm](https://github.com/npm/npm/tags)
 * [npm v2.7.3](https://github.com/npm/npm/archive/v2.7.3.zip)
 * [淘宝 NPM 镜像](https://npm.taobao.org/)
+* [2021-05-31 nodejs安装和环境配置](https://blog.csdn.net/qq28129019/article/details/117411410)
 * [2011-11-22 在Windows平台上安装Node.js及NPM模块管理](http://www.cnblogs.com/seanlv/archive/2011/11/22/2258716.html)
 * [2014-03-20 使用 Node.js、Express、AngularJS 和 MongoDB 构建一个实时问卷调查应用程序](http://www.tuicool.com/articles/R7vaMr)
 
