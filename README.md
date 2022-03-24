@@ -396,6 +396,10 @@
 * [2015-09-06 JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
 * [2015-09-07 八幅漫画理解使用JSON Web Token设计单点登录系统](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
 
+## Kafka
+
+* [2020-02-14 如何测试kafka集群能否正常工作](https://blog.csdn.net/axiaomaguohe/article/details/104320818)
+
 ## Kettle
 
 * [2012-11-26 用Kettle的一套流程完成对整个数据库迁移](http://ainidehsj.iteye.com/blog/1735434)
