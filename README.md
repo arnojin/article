@@ -921,6 +921,7 @@
 
 * [svn clean up 失败解决方法](http://www.tuicool.com/articles/biy6na)
 * [2013-09-24 TortoiseSVN Won't Allow Me To Add Any Files](http://stackoverflow.com/questions/18000363/tortoisesvn-wont-allow-me-to-add-any-files)
+* [2018-08-09 Subversion Edge behind reverse proxy server returns HTTP status 502 'Bad Gateway'](https://stackoverflow.com/questions/47630758/subversion-edge-behind-reverse-proxy-server-returns-http-status-502-bad-gateway)
 
 ## Tableau
 
