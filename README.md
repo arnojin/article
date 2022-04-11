@@ -962,11 +962,12 @@
 
 ## [UNI-APP](https://uniapp.dcloud.io/)
 
-*[开发者中心](https://dev.dcloud.net.cn/app)
+* [开发者中心](https://dev.dcloud.net.cn/app)
 * [钉钉开放平台](https://open-dev.dingtalk.com/)
 * [2022-01-20 钉钉小程序介绍](https://open.dingtalk.com/document/orgapp-client/introduction-to-dingtalk-mini-programs)
 * [2022-01-19 钉钉小程序JSAPI总览](https://open.dingtalk.com/document/orgapp-client/mini-program-jsapi-overview)
 * [2021-09-06 uni-app 快速入门](https://www.w3cschool.cn/uni_app/uni_app-kdmu370c.html)
+* [2021-07-31 微信小程序自动上传代码&uni-app自动打包](https://juejin.cn/post/6990753550972223518)
 * [2020-12-12  用vscode开发uniapp](https://www.jianshu.com/p/a7e51a6085b0)
 * [2019-08-16 当 uni-app 遇见 vscode](https://ask.dcloud.net.cn/article/id-36286)
 
