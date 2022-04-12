@@ -136,7 +136,7 @@
 
 * [Bower — a package manager for the web](https://bower.io/)
 
-## C#
+## [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 
 * [.NET导出Excel的四种方法及评测](https://www.cnblogs.com/sdflysha/archive/2019/08/26/20190824-dotnet-excel-compare.html)
 
@@ -173,7 +173,7 @@
 
 ## DNS
 
-* Rancher https://docs.rancher.cn/docs/rancher2.5/troubleshooting/dns/_index/
+* [Rancher](https://docs.rancher.cn/docs/rancher2.5/troubleshooting/dns/_index/)
 * [2020-09-07 基于docker搭建DNSmasq](https://cloud.tencent.com/developer/article/1692705)
 * [2019-07-09 DNS：从零搭建公司内网DNS服务器](https://www.cnblogs.com/Dy1an/p/11157152.html)
 * [2019-01-28 基于Docker快速搭建DNS Server](https://www.jianshu.com/p/c9e376df7074)
@@ -295,7 +295,6 @@
 * [2016-11-02 (原)使用TortoiseGit提交代码push的时候报错:HTTP 413 curl 22 The requested URL returned error: 413 Request Entity Too Large](http://www.cnblogs.com/lihaiping/p/6021813.html)
 * [2017-03-17 Git版本恢复命令reset和revert](http://blog.csdn.net/xybelieve1990/article/details/62885292)
 * [2017-06-21 git 设置不需要输入密码, 去除 fetch / pull 代码每次都需要输入密码的烦恼](http://blog.csdn.net/e62ces0iem/article/details/73550869)
-
 
 ## GitLab
 
