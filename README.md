@@ -26,6 +26,7 @@
 ## [ahrefs](https://ahrefs.com/)
 
 * [2020-09-11 最全ahrefs使用教程](https://zhuanlan.zhihu.com/p/234003232)
+* [2019-08-04 Ahrefs是什么?SEO神器Ahrefs基本用法介绍](https://www.infocode.com.cn/news/2019080480.html)
 
 ## AirFlow
 
