@@ -757,6 +757,10 @@
 
 * [2016-10-23 利用IntelliJ IDEA与Maven开始你的Scala之旅](https://www.jianshu.com/p/ecc6eb298b8f)
 
+## SEO
+
+* [2020-07-19 如何在WordPress上使用Yoast SEO：完全教程](https://www.jianshu.com/p/acf4383ebd5d)
+
 ## Shadowsocks
 
 * [Shadowsocks GitHub](https://github.com/shadowsocks/shadowsocks-windows)
