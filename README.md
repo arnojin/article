@@ -1094,6 +1094,7 @@
 
 ## 其他
 
+* [2022-04-16 泰康财险 高隔离津贴出行保险 理赔困难](https://blog.arnojin.com/%e6%b3%b0%e5%ba%b7%e8%b4%a2%e9%99%a9-%e9%ab%98%e9%9a%94%e7%a6%bb%e6%b4%a5%e8%b4%b4%e5%87%ba%e8%a1%8c%e4%bf%9d%e9%99%a9-%e7%90%86%e8%b5%94%e5%9b%b0%e9%9a%be/)
 * [.NET库、工具、框架和软件的集合](http://www.open-open.com/lib/view/open1413117736593.html)
 * [.net强制退出主窗口的方法——Application.Exit()方法和Environment.Exit(0)方法](http://www.cnblogs.com/enterbeijingthreetimes/archive/2008/08/27/1277747.html)
 * [.NET中*延迟*特性的几个陷阱](http://www.chinaz.com/program/2009/0608/78735.shtml)
