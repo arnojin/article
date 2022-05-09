@@ -19,6 +19,12 @@
 * [2013-05-27 利用100行代码动态创建并部署流程](https://kafeitu.me/activiti/2013/05/27/dynamic-process-creation-and-deployment-in-100-lines.html)
 * [2012-09-30 Activiti Explorer中文汉化](https://kafeitu.me/activiti/2012/09/30/activiti-explorer-i18n-for-chinese.html)
 
+## [Adobe](https://helpx.adobe.com/cn/support.html)
+
+* [Adobe Premiere Pro 相关内容](AdobePremierePro.md)
+* [Adobe Premiere Pro 学习和支持](https://helpx.adobe.com/cn/support/premiere-pro.html)
+* [Premiere Pro 教程](https://helpx.adobe.com/cn/premiere-pro/tutorials.html?mv=product&mv2=pr)
+
 ## Aginity
 
 * [Aginity — big data analytic solutions. | Aginity - Enterprise Analytics Management Software](http://www.aginity.com/)
