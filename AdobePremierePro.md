@@ -296,7 +296,89 @@
 
         在速度/持续时间设置中，首先将速度更改为 50%，然后单击波纹编辑、移动尾随剪辑选项并单击确定。
 
+    1. Adjusting Speed Practice 调整速度练习
+
+        In this next section, you have the opportunity to reinforce your learning by trying a short speed adjustment challenge, similar to the example you just saw in the previous steps.
+
+        在下一部分中，您将有机会通过尝试短速度调整挑战来加强您的学习，类似于您在前面步骤中看到的示例。
+
+    1. Practice 实践
+
+        The same setting used to slow down a clip can be used to speed it up.
+
+        用于减慢剪辑的相同设置可用于加快剪辑速度。
+
+        Try to use the Speed/Duration setting to return Clip 3 to its original speed. Use the hints below if you need help.
+
+        尝试使用速度/持续时间设置将剪辑 3 恢复到其原始速度。 如果您需要帮助，请使用以下提示。
+
 1. Adding Titles 添加标题
+
+    1. The Essential Graphics Panel 基本图形面板
+
+        One of the most common ways to enhance your movie is by adding titles to help tell your story. You can use titles to create opening and closing credits, or introduce unkonwn people and placess.
+
+        增强电影效果的最常见方法之一是添加标题来帮助讲述您的故事。 您可以使用标题来创建开场和结束演职员表，或介绍未知的人和地点。
+
+        In this tutorial, you'll use the Essential Graphics panel to add an opening title to your project.
+
+        在本教程中，您将使用基本图形面板为您的项目添加一个开头标题。
+
+        In the application menu, click on Window > Essential Graphics.
+
+        在应用程序菜单中，单击 窗口 > 基本图形。
+
+    1. Adding a Title to the Sequence 为序列添加标题
+
+        Let's say you want to add an opening title to the beginning of your sequence, like in the movies. (Title graphics are represented as magenta rectangles in the Timeline panel).
+
+        假设您想在序列的开头添加一个开场标题，就像在电影中一样。 （标题图形在“时间轴”面板中表示为洋红色矩形）。
+
+        Enter the word "Title" in the panel's search bar and press ENTER
+
+        在面板的搜索栏中输入单词“Title”，然后按 ENTER
+
+        Find the title named, "basic Title"
+
+        找到名为“基本标题”的标题
+
+        Using the animated graphic above as a reference, hold down CONTROL and click and drag the title icon to the beginning of the sequence until its magenta clip snaps in place at the beginning of the V1 track.
+
+        使用上面的动画图形作为参考，按住 CONTROL 并单击标题图标并将其拖动到序列的开头，直到其洋红色剪辑卡在 V1 轨道的开头。
+
+        注意：如果提示 Adobe “解析字体 SourchHanSansCN-Regular” 的错误。是缺少字体。在网上搜索 SourchHanSansCN-Regular 思源黑体 CN 字体文件后将字体文件复制到 C:\WINDOWS\Fonts
+
+    1. Editing a Title 编辑标题
+
+        You can edit almost any property of a title, from its color and font size to its position on the screen.
+
+        您几乎可以编辑标题的任何属性，从颜色和字体大小到它在屏幕上的位置。
+
+        Make sure the playhead is positioned over the title clip so you can see "Your Title Here" in the Program Monitor panel
+
+        确保播放头位于标题剪辑上方，以便您可以在节目监视器面板中看到“Your Title Here”
+
+        To open the title's property settings, click on the "Your Title Here" text in the Program Monitor panel.
+
+        要打开标题的属性设置，请单击“节目监视器”面板中的“Your Title Here”文本。
+
+    1. Adding Titles on Top of Clips 在剪辑顶部添加标题
+
+        Move the playhead to the beginning of Clip 1 in the V1 track.
+
+        将播放头移动到 V1 轨道中 剪辑 1 的开头。
+
+        In the Browse tab of the Essential Graphics panel, type "Lower Third" into the search bar and press ENTER
+
+        在“基本图形”面板的“浏览”选项卡中，在搜索栏中键入“基本下方三分之一”，然后按 回车
+
+        Find the title name, "Basic Lower Third".
+
+        找到标题名称“基本下方三分之一”。
+
+        Using the animated graphic above as a reference, click and drag the title on to the V2 track, and drop it directly above the beginning of Clip 1.
+
+        使用上面的动画图形作为参考，单击标题并将其拖到 V2 轨道上，然后将其直接放在 Clip 1 的开头上方。
 
 1. Adding Transitions to Clips 给剪辑添加转场
 
