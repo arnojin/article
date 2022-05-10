@@ -382,9 +382,139 @@
 
 1. Adding Transitions to Clips 给剪辑添加转场
 
+    1. Transitions and the Effects Panel 过渡和效果面板
+
+        A transition moves a scene from one clip to the next. The most common transition is the cut, when one clip simply ends and another begins. But other transitions can help add elements of storytelling, like dissolving between clips to show the passage of time.
+
+        过渡将场景从一个剪辑移动到下一个剪辑。 最常见的过渡是剪辑，当一个剪辑简单地结束而另一个剪辑开始时。 但是其他过渡可以帮助添加讲故事的元素，例如在剪辑之间溶解以显示时间的流逝。
+
+        In this tutorial, you'll add some basic transitions to your sequence using the Effects panel
+
+        在本教程中，您将使用“效果”面板向序列添加一些基本过渡
+
+        In the application menu, click on Window > Effects
+
+        在应用程序菜单中，单击窗口 > 效果
+
+    1. Adding a Cross Dissolve 添加交叉溶解
+
+        You can add a transition at the beginning or the end of a single clip, or between two clips. Let's add a fade, also known as a Cross Dissolve, between Clip 1 and Clip 3.
+
+        您可以在单个剪辑的开头或结尾或两个剪辑之间添加转场。 让我们在 剪辑 1 和 剪辑 3 之间添加一个淡入淡出，也称为 交叉溶解。
+
+        In the search bar, type "Cross Dissolve"
+
+        在搜索栏中，输入“交叉溶解”
+
+        Click and drag the Cross Dissolve effect on the V1 track until its yellow outline covers both the end of Clip 1 and the beginning of Clip 3, then drop it in place.
+
+        单击并拖动 V1 轨道上的 Cross Dissolve 效果，直到其黄色轮廓覆盖 Clip 1 的结尾和 Clip 3 的开头，然后将其放置到位。
+
+    1. Transitions Practice 过渡练习
+
+        In this next section, you have the opportunity to reinforce your learning by trying a short transitions challenge, similar to the example you just saw in the previous steps.
+
+        在下一部分中，您有机会通过尝试一个简短的转换挑战来加强您的学习，类似于您在前面的步骤中看到的示例。
+
+    1. Practice with Transitions 过渡练习
+
+        Transitions can also be applied to titles. See if you can use what you've learned about transitions and change the titles so that they fade in and out of the sequence. Use the hints elow if you ge stuck.
+
+        过渡也可以应用于标题。 看看你是否可以使用你所学到的关于过渡的知识并更改标题，以便它们淡入和淡出序列。 如果您遇到困难，请使用以下提示。
+
 1. Working with Audio 使用音频
 
+    1. Adjusting Clip Volume 调整剪辑音量
+
+        The difference between a professional film and an amateur video is often the audio. Having the right audio levels is critical for a sucessful project.
+
+        专业电影和业余视频之间的区别通常在于音频。 拥有正确的音频电平对于成功的项目至关重要。
+
+        An extra voiceover audio track has been added to the project for this tutorial. If you play the sequence. you'll notice that the background music in A1 is too loud for the voiceover in A2.
+
+        本教程的项目中添加了一个额外的画外音音轨。 如果你播放序列。 您会注意到 A1 中的背景音乐对于 A2 中的画外音来说太大声了。
+
+        In the A1 audio track of the Timeline panel, find the horizontal. white line that divides the green audio clip into two identical halves.
+
+        在 时间线 面板的 A1 音轨中，找到水平线。 白线将绿色音频剪辑分成相同的两半。
+
+        Click on the white line and drag it downwards, to around -6 dB.
+
+        单击白线并将其向下拖动到 -6 dB 左右。
+
+    1. Fading Audio 音乐渐弱
+
+        Right now the music ends abruptly. Let's say you want to gradually fade the music out instead.
+
+        现在音乐突然结束了。 假设您想要逐渐淡出音乐。
+
+        Open the Effects panel by going to Window > Effects and delete any text currently in the search bar.
+
+        通过转到 窗口 > 效果 打开效果面板并删除当前在搜索栏中的所有文本。
+
+        Open Audio Transitions > Crossfade and select Exponential Fade
+
+        打开 音频过度 > 交叉淡化 并选择 指数淡化
+
+        Drag and drop the Exponential Fade effect on to the end of the background music clip in the A1 track.
+
+        将指数渐变效果拖放到 A1 轨道中背景音乐剪辑的末尾。
+
 1. Adjusting the Color of Clips 调整剪辑的颜色
+
+    1. The Lumetri Color Panel Lumetri颜色面板
+
+        Color correction is the process of adjusting your clips until the colors look as close as possible to how the human eye sees them.
+
+        颜色校正是调整剪辑的过程，直到颜色看起来尽可能接近人眼看到的颜色。
+
+        The easiest way to improve the look of your clips in Premiere Pro is to use the Lumetri Color panel.
+
+        在 Premiere Pro 中改善剪辑外观的最简单方法是使用 Lumetri颜色面板。
+
+        I the application menu, click on Window > Lumetri Color.
+
+        在应用程序菜单中，单击 窗口 > Lumetri 颜色。
+
+    1. Adjusting White Balance 调整白平衡
+
+        There seems to be a blue tint to Clip 3. You can fix this by adjusting the white balance of the clip.
+
+        剪辑 3 似乎有蓝色调。您可以通过调整剪辑的白平衡来解决此问题。
+
+        In the V1 track of the Timeline panel, click on Clip 3 to select it, and move the playhead over it so you can see the clip in the Program Monitor.
+
+        在 时间线 面板的 V1 轨道中，单击 剪辑 3 将其选中，然后将播放头移到它上面，这样您就可以在节目监视器中看到该剪辑。
+
+        In the Lumetri Color panel, click on the Basic Correction section to expand the options.
+
+        在 Lumetri 颜色面板中，单击基本校正部分以展开选项。
+
+        Click on the Eye Dropper icon next to the WB Selector, and then in the Program Monitor panel, click on the white clouds.
+
+        单击 白平衡选择器旁边的滴管图标，然后在节目监视器面板中，单击白云。
+
+    1. Creativity with Color 创意与色彩
+
+        The style and look of this movie is completely up to you. Get creative and use the different settings of Lumetri Color panel to adjust the look and feel of the clips.
+
+        这部电影的风格和外观完全取决于您。 发挥创意并使用 Lumetri 颜色面板的不同设置来调整剪辑的外观。
+
+        Things to consider trying:
+
+        要考虑尝试的事情：
+
+        Adjust each of the basic settings to see how they change different aspects of the clip.
+
+        调整每个 基本校正 以查看它们如何更改剪辑的不同方面。
+
+        Explore fifferent "Looks" under the Creative settings.
+
+        在 创意 设置下探索不同的“Look”。
+
+        Create color casts under Color Wheels & Match.
+
+        在 色轮和匹配 设置下创建色偏。
 
 ## [Adobe Premiere Pro 学习和支持](https://helpx.adobe.com/cn/support/premiere-pro.html)
 
