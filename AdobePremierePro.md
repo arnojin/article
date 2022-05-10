@@ -2,9 +2,10 @@
 
 ## Adobe Premiere Pro 应用内教程
 
-位置： 帮助 --> Premiere Pro 应用内教程
-对应的工作区为： 窗口 --> 工作区 --> Learning (Alt+Shift+9)
-对应的工作区文件为：C:\Program Files\Adobe\Adobe Premiere Pro 2022\XML\LEARNINGWORKSPACELAYOUT.xml
+    位置： 帮助 --> Premiere Pro 应用内教程
+    对应的工作区为： 窗口 --> 工作区 --> Learning (Alt+Shift+9)
+    对应的工作区文件为：C:\Program Files\Adobe\Adobe Premiere Pro 2022\XML\LEARNINGWORKSPACELAYOUT.xml
+    工程文件： C:\Users\Public\Documents\Adobe\Premiere Pro\22.0\Tutorial\Going Home project
 
 ### Premiere Pro Overview
 
@@ -138,7 +139,111 @@
 
 1. Editing Your Clips 编辑你的剪辑
 
+    1. Moving Around the Sequence 在序列中移动
+
+        For this tutorial, note that we've added a music file to the A1 track for you.
+
+        对于本教程，请注意我们已为您将音乐文件添加到 A1 曲目。
+
+        Before you start editing, you'll need to go through the sequence and identify where you'd like to make changes. The fastest way to move around the sequence and review your clips is using the playhead (the vertical blue line in the Timeline panel).
+
+        在开始编辑之前，您需要检查序列并确定要进行更改的位置。 在序列中移动和查看剪辑的最快方法是使用播放头（时间线面板中的垂直蓝线）。
+
+        Press the SPACEBAR to start playing the sequence.
+
+        按空格键开始播放序列。
+
+        Press the SPACEBAR again to stop playing the sequence.
+
+        再次按空格键停止播放序列。
+
+        FOr faster navigation, click and drag the playhead across the Timeline panel to find the part of your sequence you're looking for.
+
+        为了更快地导航，单击并在时间线面板上拖动播放头以找到您正在寻找的序列部分。
+
+        Use the gray scroll bar at the bottom of the Timeline panel to scroll through your seqauence.
+
+        使用“时间线”面板底部的灰色滚动条滚动您的序列。
+
+    1. Moving Clips 移动剪辑
+
+        After reviewing your sequence, let's say you think your movie would look better if you swapped Clip 2 and Clip 3.
+
+        在查看您的序列后，假设您认为如果交换剪辑 2 和剪辑 3，您的电影会更好看。
+
+        While holding down CONTROL click and drag Clip 3 over Clip 2, until the beginning of Clip 3 snaps in place over the beginning of Clip 2, then release the mouse.
+
+        在按住 CONTROL 的同时单击并将剪辑 3 拖到剪辑 2 上，直到剪辑 3 的开头与剪辑 2 的开头对齐，然后松开鼠标。
+
+    1. Trimming Clips 修剪剪辑
+
+        The clips have been reset to the correct order from the last step to help you follow along.
+
+        剪辑已从最后一步重置为正确的顺序，以帮助您跟进。
+
+        Another common reason to edit your cliops is because they're too long. What if you need your movie to be only 15 seconds long? You can use trimming to shorten the length of a clip.
+
+        编辑剪辑的另一个常见原因是它们太长了。 如果你需要你的电影只有 15 秒长怎么办？ 您可以使用修剪来缩短剪辑的长度。
+
+        Move you cursor to eh end of Clip 2 until it changes from a black arrow to a red, left-facing trimming icon.
+
+        将光标移动到剪辑 2 的末端，直到它从黑色箭头变为红色的朝左修剪图标。
+
+        Click and drag your cursor slowly until the end of the clip reaches the playhead(currently at the 15 second mark).
+
+        单击并缓慢拖动光标，直到剪辑的末尾到达播放头（当前位于 15 秒标记处）。
+
+    1. Editing Practice 编辑练习
+
+        In this next section, you have the opportunity to reinforce your learning by trying a short editing challenge, similar to the example you just saw in the previous step.
+
+        在下一部分中，您有机会通过尝试一个简短的编辑挑战来加强您的学习，类似于您在上一步中看到的示例。
+
+        Click Next to continue to the challenge.
+
+        单击下一步继续挑战。
+
+    1. Edit Challenge 编辑挑战
+
+        Your overall video is still longer than 15 seconds because the audio track is much longer than the video track.
+
+        您的整个视频仍然超过 15 秒，因为音频轨道比视频轨道长得多。
+
+        See if you can shorten the length of the audio track to match the video track. Use the hints below if you get stuck.
+
+        看看您是否可以缩短音轨的长度以匹配视频轨道。 如果您遇到困难，请使用以下提示。
+
 1. Exporting Your Project Content 导出您的项目内容
+
+    1. Exporting Your Work 导出你的工作
+
+        In this tutorial, you'll export your short movie using some basic HD settings you might use for uploading your video to social media.
+
+        在本教程中，您将使用一些可能用于将视频上传到社交媒体的基本高清设置导出短片。
+
+        Click on the Timeline panel and then press CONTROL + M to open the Export Settings dialog box.
+
+        单击“时间线”面板，然后按 CONTROL + M 打开“导出设置”对话框。
+
+        Don't worry about all the different setting options.
+
+        不要担心所有不同的设置选项。
+
+        On the right, under Export Settings, change the Format option to H.264.
+
+        在右侧的导出设置下，将格式选项更改为 H.264。
+
+        Under the format oiption, change the Preset option to Match Source - Medium Bitrate.
+
+        在格式选项下，将预设选项更改为匹配源 - 中等比特率。
+
+        Click on the blue file name next to the Output Name option and rename your file to something relevant.
+
+        单击“输出名称”选项旁边的蓝色文件名，然后将文件重命名为相关的名称。
+
+        Click Export.
+
+        单击导出。
 
 ### Creative and Stylistic Edits
 
