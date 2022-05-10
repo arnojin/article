@@ -7,7 +7,7 @@
     对应的工作区文件为：C:\Program Files\Adobe\Adobe Premiere Pro 2022\XML\LEARNINGWORKSPACELAYOUT.xml
     工程文件： C:\Users\Public\Documents\Adobe\Premiere Pro\22.0\Tutorial\Going Home project
 
-### Premiere Pro Overview
+### Premiere Pro Overview 概述
 
     Completely New? Start Here!
     全新？ 从这里开始！
@@ -50,7 +50,7 @@
     * 取消停靠并四处移动
     * 在同一个面板区域内组合在一起
 
-### Learn the Basics
+### Learn the Basics 学习基础知识
 
     The Basics
     基础知识
@@ -245,7 +245,13 @@
 
         单击导出。
 
-### Creative and Stylistic Edits
+### Creative and Stylistic Edits 创意和风格编辑
+
+    In this tutorial series, you'll add stylistic and creative edits to the video created in the previous tutorial series.
+    在本教程系列中，您将为在上一教程系列中创建的视频添加风格和创意编辑。
+
+    These tutorials are meant to be interactive, so follow along for maximum learning.
+    这些教程是交互式的，因此请继续学习以获得最大程度的学习。
 
     Skills and Projects
     技能和项目
@@ -255,6 +261,48 @@
 
     Five interacitive tutorials that teach the basics of adjusting clip speed, adding titles and transitions, adjusting audio, and color correction.
     五个交互式教程，教授调整剪辑速度、添加标题和过渡、调整音频和色彩校正的基础知识。
+
+1. Changing the Speed of Clips 改变剪辑的速度
+
+    1. The Final Product 最终产品
+
+        Before you begin, take a look at the project in its final state so you have a better idea of what you'll create.
+
+        在开始之前，请查看项目的最终状态，以便更好地了解要创建的内容。
+
+        Press Play in the Program Monitor panel to preview the video.
+
+        按节目监视器面板中的播放以预览视频。
+
+    1. Creating Slow Motion 制作慢动作
+
+        The project has been reset to how it looked at the end of the last tutorial series.
+
+        该项目已重置为上一个教程系列结束时的样子。
+
+        One of the most popular creative edits is changing the speed of your clips to create a slow-motion effect.
+
+        最受欢迎的创意编辑之一是更改剪辑的速度以创建慢动作效果。
+
+        Let's say you want to slow down Clip 3 to match the speed of the other clips.
+
+        假设您想减慢剪辑 3 的速度以匹配其他剪辑的速度。
+
+        Right-click on Clip 3 and select Speed/Duration in the options menu.
+
+        右键单击剪辑 3，然后在选项菜单中选择速度/持续时间。
+
+        In the Speed/Duration settings, first change the Speed to 50% then click on the Ripple Edit, Shift Trailing Clips option and click OK.
+
+        在速度/持续时间设置中，首先将速度更改为 50%，然后单击波纹编辑、移动尾随剪辑选项并单击确定。
+
+1. Adding Titles 添加标题
+
+1. Adding Transitions to Clips 给剪辑添加转场
+
+1. Working with Audio 使用音频
+
+1. Adjusting the Color of Clips 调整剪辑的颜色
 
 ## [Adobe Premiere Pro 学习和支持](https://helpx.adobe.com/cn/support/premiere-pro.html)
 
