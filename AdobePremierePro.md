@@ -519,3 +519,30 @@
 ## [Adobe Premiere Pro 学习和支持](https://helpx.adobe.com/cn/support/premiere-pro.html)
 
 ## [Premiere Pro 教程](https://helpx.adobe.com/cn/premiere-pro/tutorials.html?mv=product&mv2=pr)
+
+## Adobe Premiere Pro 2022 项目文件、素材文件组织方式
+
+    20220511_AdobePremierePro2022Overview
+        01 FOOTAGE
+        02 AUDIO
+            VOICEOVER
+            H4N
+            MUSIC
+            SFX
+        03 SEQUENCES
+        04 GRAPHICS
+
+    20220511_AdobePremierePro2022Overview
+        01 FOOTAGE
+        02 AUDIO
+            VOICEOVER
+            H4N
+            MUSIC
+            SFX
+        03 GRAPHICS
+        04 MUSIC
+        05 PHOTOS
+        06 DOCUMENTS
+        07 PREMIERE
+        08 AE
+        09 EXPORTS
