@@ -119,7 +119,7 @@
 
         将文件从“项目”面板拖放到“时间线”面板（到标记为“将媒体拖放到此处以创建序列”的区域）
 
-    1. Vodeo and Audio Tracks
+    1. Vodeo and Audio Tracks 视频和音频轨道
 
         Your clips now are sitting in your sequence on the Timeline panel in horizontal areas called tracks. Tracks hold the vodeo and audio files you edit in your sequence. Your sequence currently contains two tracks, a video track(V1) and an audio track (A1).
 
