@@ -348,6 +348,9 @@
 
         注意：如果提示 Adobe “解析字体 SourchHanSansCN-Regular” 的错误。是缺少字体。在网上搜索 SourchHanSansCN-Regular 思源黑体 CN 字体文件后将字体文件复制到 C:\WINDOWS\Fonts
 
+        [Bgngee](https://www.fontreach.com/bungee-font-free-download/)
+        [VoxRound](https://en.bestfonts.pro/font/vox-round)
+
     1. Editing a Title 编辑标题
 
         You can edit almost any property of a title, from its color and font size to its position on the screen.
