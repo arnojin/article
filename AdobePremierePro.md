@@ -550,8 +550,16 @@
         08 AE
         09 EXPORTS
 
-## 问题
+## 技巧
 
 1. [PR导出的视频不完整怎么办？](https://jingyan.baidu.com/article/aa6a2c1427ea4d4c4c19c4e2.html)
     1. 遇到这种情况，点击pr，打开项目，点击素材库上的序列。（或已经剪辑的视频选要导出的）
     1. 选择了，点击 标记 > 清除出点入点。
+1. 鼠标、键盘点击工具 [PointerFocus](https://www.pointerfocus.com/)
+    * Registration code: 10325357x215372
+1. 截屏工具 [Snipaste](https://zh.snipaste.com/)
+    * F1 截屏
+    * F3 贴图
+1. 屏幕放大、缩小工具 [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+    * 使用快捷键 CTRL+4 来 开启/关闭 LiveZoom 模式
+    * 在LiveZoom 模式下，使用 CTRL+UP, CTRL+DOWN 来放大、缩小显示区域
