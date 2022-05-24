@@ -309,6 +309,7 @@
 
 ## GitLab
 
+* [2022-05-18 Failed to upgrade GitLab ee 14.9.4 –> 14.10.X (Docker)](https://forum.gitlab.com/t/failed-to-upgrade-gitlab-ee-14-9-4-14-10-x-docker/69800)
 * [2020-03-19 Fix GitLab runner "expected shallow list" error](https://megamorf.gitlab.io/2020/03/19/fix-gitlab-runner-expected-shallow-list-error/)
 
 ## Go
