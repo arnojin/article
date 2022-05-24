@@ -310,6 +310,7 @@
 ## GitLab
 
 * [2022-05-18 Failed to upgrade GitLab ee 14.9.4 –> 14.10.X (Docker)](https://forum.gitlab.com/t/failed-to-upgrade-gitlab-ee-14-9-4-14-10-x-docker/69800)
+* [2022-04-25 rails_migration[gitlab-rails] action run fails from 14.8.2 to 14.10.0 (Ubuntu 20.04)](https://gitlab.com/gitlab-org/gitlab/-/issues/360377#note_935153082)
 * [2020-03-19 Fix GitLab runner "expected shallow list" error](https://megamorf.gitlab.io/2020/03/19/fix-gitlab-runner-expected-shallow-list-error/)
 
 ## Go
