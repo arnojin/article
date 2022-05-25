@@ -516,6 +516,7 @@
 ## Linux
 
 * [Centos7中使用7zip压缩工具](https://www.linuxprobe.com/centos7-7zip-compression.html)
+* [2022-05-25 使用 bash, curl 随机访问指定页面，不输出页面内容](https://blog.arnojin.com/%e4%bd%bf%e7%94%a8-bash-curl-%e9%9a%8f%e6%9c%ba%e8%ae%bf%e9%97%ae%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%ef%bc%8c%e4%b8%8d%e8%be%93%e5%87%ba%e9%a1%b5%e9%9d%a2%e5%86%85%e5%ae%b9/)
 * [2020-06-07 解决因U盘标签问题导致的U盘安装Linux系统失败](https://www.cnblogs.com/realjimmy/p/13060172.html)
 * [2017-10-16 用Linux命令行获取本机外网IP地址](https://blog.csdn.net/lakeheart879/article/details/78247894)
 * [2010-11-18 EXT3 vs EXT4 vs XFS vs BTRFS linux filesystems benchmark](http://www.ilsistemista.net/index.php/linux-a-unix/6-linux-filesystems-benchmarked-ext3-vs-ext4-vs-xfs-vs-btrfs.html?limitstart=0)
