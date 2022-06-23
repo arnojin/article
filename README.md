@@ -1032,6 +1032,7 @@
 
 * [下载 Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11?4cd9df4f-deef-4431-9497-a04303f34986=True&3ffbea20-eb11-4a96-85d6-f356b820d828=True)
 * [2021-10-11 安装Windows 11绕过TPM和安全启动等绕过硬件检测限制常用方法](https://bbs.pcbeta.com/viewthread-1906734-1-1.html)
+* [2021-09-02 Windows 终端 SSH 保持长时间连接](https://blog.csdn.net/humanbeng/article/details/120062468)
 
 ## Windows Terminal
 
