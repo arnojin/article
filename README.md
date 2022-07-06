@@ -320,6 +320,10 @@
 * [viper](https://github.com/spf13/viper)
 * [2016-03-15 Python Flask vs Ruby Sinatra vs Go Martini vs Node Express](http://startover.github.io/articles/2016/03/15/python-ruby-go-node-benchmark/)
 
+## gRPC
+
+* [2022-04-14 .NET Core(.NET6)中gRPC使用](https://www.cnblogs.com/wei325/p/16128279.html)
+
 ## Hadoop
 
 * [Hadoop](http://hadoop.apache.org/) [GitHub hadoop](https://github.com/apache/hadoop) [GitHub winutils](https://github.com/steveloughran/winutils) [hadoop-3.0.0.tar.gz](http://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/common/hadoop-3.0.0/hadoop-3.0.0.tar.gz)
