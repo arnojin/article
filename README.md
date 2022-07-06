@@ -655,6 +655,7 @@
 
 ## Nginx
 
+* [How nginx processes a request](https://nginx.org/en/docs/http/request_processing.html)
 * [2021-05-18 Nginx Websocket 配置](https://cloud.tencent.com/developer/article/1825520)
 * [2019-11-19 如何为Nginx配置 WebSocket?](https://cloud.tencent.com/developer/article/1540702)
 * [2019-04-20 nginx--default_server定义规则及配置](https://www.cnblogs.com/kuku0223/p/10740735.html)
