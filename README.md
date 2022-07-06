@@ -322,6 +322,7 @@
 
 ## gRPC
 
+* [2022-06-10 .NET 上的 gRPC 支持的平台](https://docs.microsoft.com/zh-cn/aspnet/core/grpc/supported-platforms?view=aspnetcore-6.0)
 * [2022-04-14 .NET Core(.NET6)中gRPC使用](https://www.cnblogs.com/wei325/p/16128279.html)
 
 ## Hadoop
@@ -647,6 +648,7 @@
 * [npm](https://github.com/npm/npm/tags)
 * [npm v2.7.3](https://github.com/npm/npm/archive/v2.7.3.zip)
 * [淘宝 NPM 镜像](https://npm.taobao.org/)
+* [2022-07-06 使用 Nginx 在 Linux 上托管 ASP.NET Core](https://docs.microsoft.com/zh-cn/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-6.0)
 * [2021-05-31 nodejs安装和环境配置](https://blog.csdn.net/qq28129019/article/details/117411410)
 * [2011-11-22 在Windows平台上安装Node.js及NPM模块管理](http://www.cnblogs.com/seanlv/archive/2011/11/22/2258716.html)
 * [2014-03-20 使用 Node.js、Express、AngularJS 和 MongoDB 构建一个实时问卷调查应用程序](http://www.tuicool.com/articles/R7vaMr)
@@ -655,6 +657,7 @@
 
 * [2021-05-18 Nginx Websocket 配置](https://cloud.tencent.com/developer/article/1825520)
 * [2019-11-19 如何为Nginx配置 WebSocket?](https://cloud.tencent.com/developer/article/1540702)
+* [2019-04-20 nginx--default_server定义规则及配置](https://www.cnblogs.com/kuku0223/p/10740735.html)
 * [2018-11-26 nginx实现无www和有www跳转](https://blog.csdn.net/eebaicai/article/details/84540439)
 * [2014-10-28 Nginx反向代理关于端口的问题](https://www.cnblogs.com/likehua/p/4056625.html)
 * [2015-12-06 linux安装nginx并设置https（openssl）](http://blog.csdn.net/guestcode/article/details/50194357)
