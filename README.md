@@ -357,9 +357,14 @@
 * [2020-12-25 hadoop生态的kerberos认证系列4-hive](https://blog.csdn.net/tktttt/article/details/111676404)
 * [2021-02-04 java.net.SocketTimeoutException: Read timed out 问题解决](https://blog.csdn.net/pingweicheng/article/details/113637189)
 
+## Hyper-V
+
+* [2021-11-03 Hyper-V 虚拟机的两种外网连接方式（网桥式与共享式）](https://blog.csdn.net/qq_16051405/article/details/121122368)
+
 ## Hystrix
 
 * [Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
 
 ## IntelliJ Jetbrains
 
